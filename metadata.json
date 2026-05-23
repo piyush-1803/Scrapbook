@@ -1,0 +1,6 @@
+{
+  "name": "Scrapbook",
+  "description": "Digital scrapbook & comforting journaling app with a tactile bento layout, vintage cassettes, and warm golden-hour rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
